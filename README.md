@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://mandyjoseph789.wixsite.com/securehunt](https://mandyjoseph789.wixsite.com/securehunt)
 
-- 💬 Ask me about **Digital Forensic & Incident Response and Malware Analysi**
+- 💬 Ask me about **Digital Forensic & Incident Response and Malware Analysis**
 
 - 📫 How to reach me **mudassirmohd365@gmail.com**
 
